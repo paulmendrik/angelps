@@ -1,0 +1,23 @@
+{
+  "bundler": "rollup",
+  "shimport": "1.0.1",
+  "assets": {
+    "main": "client.7357a21f.js"
+  },
+  "dependencies": {
+    "../client.js": [],
+    "index.svelte": [
+      "client.7357a21f.js"
+    ],
+    "../../node_modules/sapper/sapper-dev-client.js": []
+  },
+  "css": {
+    "main": "main.2149899554.css",
+    "chunks": {
+      "index.svelte": [
+        "index.71306609.css",
+        "client.7357a21f.css"
+      ]
+    }
+  }
+}
